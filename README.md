@@ -42,4 +42,5 @@ OpenCV stores RGB pixels in **reverse order**, so when we unpack and access each
 #### Flipping
 ![image-flipping](./images/06-flipping.png)
 
-
+#### Cropped
+![image-cropped](./images/07-cropped.png)
